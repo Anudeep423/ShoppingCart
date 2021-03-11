@@ -9,6 +9,7 @@ import {
   Button
 } from "reactstrap";
 // cartItems
+//Adding products 
 const CartItem = ({name, product, addInCart }) => {
   return (
     <Card className="mt-2 mb-1">
