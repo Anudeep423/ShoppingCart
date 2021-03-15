@@ -4,7 +4,7 @@ import CartItem from "./CartItem";
 import {data} from "./PEXELS"
 import { random, commerce,name } from "faker";
 import { Container, Col, Row } from "reactstrap";
-
+// adding api key
 const apiKey = "INSET_YOUR_KEY_HERE";
 
 const url = "https://api.pexels.com/v1/search?query=laptop&per_page=6&page=1";
