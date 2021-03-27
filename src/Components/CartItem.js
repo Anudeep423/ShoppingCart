@@ -8,7 +8,7 @@ import {
   CardTitle,
   Button
 } from "reactstrap";
-// cartItems
+// cartItemss
 //Adding products 
 const CartItem = ({name, product, addInCart }) => {
   return (
