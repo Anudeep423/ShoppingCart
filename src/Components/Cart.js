@@ -11,7 +11,7 @@ import {
   Col,
   Row
 } from "reactstrap";
-
+//cart section
 const Cart = ({ cartItem, removeItem, buyNow }) => {
   let amount = 0;
 
