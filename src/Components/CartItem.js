@@ -10,6 +10,7 @@ import {
 } from "reactstrap";
 // cartItemss
 //Adding products 
+// cart 
 const CartItem = ({name, product, addInCart }) => {
   return (
     <Card className="mt-2 mb-1">
