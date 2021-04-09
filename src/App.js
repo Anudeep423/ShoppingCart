@@ -5,9 +5,10 @@ import "react-toastify/dist/ReactToastify.css";
 import "./App.css";
 //adding css
 //adding css
+
 import { Container, Row, Col } from "reactstrap";
 import { ToastContainer, toast } from "react-toastify";
-
+/buy page
 import BuyPage from "./Components/BuyPage";
 import Cart from "./Components/Cart";
 
